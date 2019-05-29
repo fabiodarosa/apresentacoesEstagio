@@ -1,0 +1,5 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¼üÎùÿÿÿÿ
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8èã¡ó¯-
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8èã¡ó¯-
+nsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(›Ë¿Êûÿÿÿÿ8µÌ¨ó¯-

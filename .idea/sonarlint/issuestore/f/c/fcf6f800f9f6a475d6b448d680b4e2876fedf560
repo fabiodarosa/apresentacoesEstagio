@@ -1,0 +1,33 @@
+
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(æ÷ŞËşÿÿÿÿ8¾šËÔ¯-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ØŠ±–
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îåå¿8¤ı‡Ì¯-
+fsquid:S2259"CA "NullPointerException" could be thrown; "clone" is nullable here.(ÓŞğ•øÿÿÿÿ8£¨ÊÔ¯-
+fsquid:S2583"CChange this condition so that it does not always evaluate to "true"(õÊÙÛıÿÿÿÿ8¤ı‡Ì¯-
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(çÒŠÏÿÿÿÿÿ8¤ı‡Ì¯-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾úäúüÿÿÿÿ8¤ı‡Ì¯-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ÔÎ’›ûÿÿÿÿ8¤ı‡Ì¯-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾úäúüÿÿÿÿ8¤ı‡Ì¯-
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(ºÄ†Ÿ8´ÍÔ¯-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ş»©şÿÿÿÿ8¤ı‡Ì¯-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(®ëÁõ8¤ı‡Ì¯-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïåú8¤ı‡Ì¯-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îåå¿8¤ı‡Ì¯-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌÇÑîşÿÿÿÿ8¤ı‡Ì¯-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Úâ¬÷şÿÿÿÿ8¤ı‡Ì¯-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(çºŠšşÿÿÿÿ8¤ı‡Ì¯-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¤ı‡Ì¯-

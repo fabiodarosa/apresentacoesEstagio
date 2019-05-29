@@ -1,0 +1,6 @@
+
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍÌÒM
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Òí•ó¯-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¼üÎùÿÿÿÿ
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Òí•ó¯-
