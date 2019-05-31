@@ -1,6 +1,4 @@
 
-\
-,src/may22/java11features/ClasseAninhada.java,1/3/1331754c93a9c8d300674d45ccd6b84922f64acf
 R
 "src/may22/threads/MinhaThread.java,2/d/2d66327e5d3a0962e211ef61c73633d0a69abe36
 K
@@ -23,8 +21,6 @@ V
 0src/may22/copiasereferencias/ClasseClonavel.java,5/6/568edf43443d8c85d220c39072c55fcd582b9f91
 p
 @src/proximaapresentacao/designpatterns/builder/ContaBuilder.java,5/a/5ab1118a60f2c0237dd8a17d683af8d3c12f7236
-v
-Fsrc/proximaapresentacao/designpatterns/singleton/ExemploSingleton.java,1/3/13f3f99474d68606db5a51d7e4206b48c2556f45
 [
 +src/may22/estruturadedados/ExemploList.java,4/d/4d2ef00d621148992adb76f7804c8b2dcb0aa4d6
 Z
