@@ -1,18 +1,18 @@
 
 T
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-T
-squid:S106!"9Replace this use of System.out or System.err by a logger.(ìş»˜üÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìş»˜üÿÿÿÿ
 O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÌûı
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ïå»¸
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïå»¸
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¥¥„Ç°-
 T
-squid:S106#"9Replace this use of System.out or System.err by a logger.(ìş»˜üÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÌûı
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(£±íÁüÿÿÿÿ
+squid:S106"9Replace this use of System.out or System.err by a logger.(£±íÁüÿÿÿÿ
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åøîàûÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ıî„Ç°-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ìş»˜üÿÿÿÿ8¿šÿÆ°-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß˜¬§şÿÿÿÿ8…£Ç°-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß˜¬§şÿÿÿÿ8¯ŞÇ°-
