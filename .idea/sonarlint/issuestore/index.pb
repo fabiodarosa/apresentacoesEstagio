@@ -44,3 +44,23 @@ I
 Rsrc/jun06/java11/localvariableinferencelambda/LocalVariableInferenceForLambda.java,e/d/ed6eba0874e4cb4f8bd3b17f5459cf0f8c9b82e5
 b
 2src/jun06/java11/stringmethods/StringsMethods.java,9/0/9085eedfcf573374a6cbfd413028d3f43ed61861
+H
+src/META-INF/MANIFEST.MF,e/4/e4b1fd2293ba1e598e6bec4e0ee3b6b6851eb5a2
+f
+6src/jun12/designpatterns/decorator/threads/Funcao.java,e/3/e34299e666bc0ea642fac99828541669e4a2b56e
+o
+?src/jun12/designpatterns/decorator/threads/ThreadDecorator.java,8/6/861dec5bb3cfedfec08726d893ed2ac9ce1d5f09
+t
+Dsrc/jun12/designpatterns/decorator/threads/TesteThreadDecorator.java,5/5/55098eeb0d2d61d71e9816e838cead5feb52bf3e
+j
+:src/jun12/designpatterns/decorator/threads/FuncaoBase.java,1/e/1ec2d60c0cb088c93b8fc8fff9386e3d69e5ba64
+@
+Apresentacao.iml,e/a/ea19c0e90afe0ef6d94d315e8fe8fa130febd18c
+g
+7src/jun12/designpatterns/decorator/PedidoDecorator.java,3/2/320690a0c26b1b8755de6aa819c8db2a7b531b72
+V
+&src/jun12/solid/asrp/CalcularArea.java,f/7/f77db61ba1f7942b463b39aa61564f538103c3c2
+P
+ src/jun12/solid/asrp/Figura.java,2/a/2a180721afd8ebb6b6b1ec89891cdcb863259345
+`
+0src/jun12/solid/asrp/certo/FormatarResposta.java,4/7/47167ff2033c7de2a1896e77242876b7f6651fd2
